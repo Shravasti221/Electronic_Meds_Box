@@ -4,7 +4,8 @@ A medicine storage box that has alarms that can remind the elderly to take their
 ## Introduction:
 Forgetfulness is a normal part of aging. As people get older, some people may notice that it takes longer to learn new things and becomes harder to remember everything. The elderly often take multiple medicines a day. Some of these medicines are prescribed over a long term whereas some medicines may be replaced with variants. And many medicines are critical and are required to be taken without fail every day at the right time. For a senior citizen, remembering to take so many medicines daily is no mean feat. The trend of living in nuclear families has been growing for a while as children go live in different states or countries for higher studies or to avail better job opportunities, so the elderly may not have a support system to remind them to take their medicines. As a solution to this problem, I propose the design of the electronic medicine storage and reminder box.
 
-## Objective: To build a medicine storage and reminder box with the following features:
+## Objective: 
+To build a medicine storage and reminder box with the following features:
 1.	It is easy to use with clean, minimalist design to ensure that there is no confusion for the elderly and they are not intimidated by the technology.
 2.	Lightweight, hardy and easy to carry around
 3.	It has a loud audio as well as visual reminder at the appropriate times to remind the senior citizen to take medicine. 
